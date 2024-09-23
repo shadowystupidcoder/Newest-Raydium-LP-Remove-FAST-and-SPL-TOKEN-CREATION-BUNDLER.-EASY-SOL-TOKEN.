@@ -1,4 +1,7 @@
-## UPDATED FOR THE NEW PROGRAM ("CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"). Remove Raydium LP. Very fast.
+## UPDATED FOR THE NEW PROGRAM:  
+
+## CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C
+
 
 1. npm install
 
