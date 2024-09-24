@@ -2,6 +2,8 @@
 
 ## CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C
 
+## Easily remove Liquidity from the newest Solana Raydium CPMM program. No market ID required. (All new pools created by the frontend use this now so the old code for v4 wont work anymore).
+
 Disclaimer I take a small fee. This script probably wont work unless youre removing most of the LP from a pool.
 
 1. npm install
