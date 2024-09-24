@@ -2,6 +2,7 @@
 
 ## CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C
 
+Disclaimer I take a small fee. This script probably wont work unless youre removing most of the LP from a pool.
 
 1. npm install
 
